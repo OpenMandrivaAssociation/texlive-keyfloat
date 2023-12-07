@@ -1,6 +1,6 @@
 Name:		texlive-keyfloat
-Version:	61561
-Release:	2
+Version:	65446
+Release:	1
 Summary:	Provides a key/value interface for generating floats
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/keyfloat
