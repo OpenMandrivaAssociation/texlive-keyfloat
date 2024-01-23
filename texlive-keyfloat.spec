@@ -1,5 +1,5 @@
 Name:		texlive-keyfloat
-Version:	65446
+Version:	69399
 Release:	1
 Summary:	Provides a key/value interface for generating floats
 Group:		Publishing
