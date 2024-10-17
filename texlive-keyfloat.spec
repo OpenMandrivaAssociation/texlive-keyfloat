@@ -3,7 +3,7 @@ Version:	69399
 Release:	1
 Summary:	Provides a key/value interface for generating floats
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/keyfloat
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/keyfloat
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/keyfloat.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/keyfloat.doc.r%{version}.tar.xz
